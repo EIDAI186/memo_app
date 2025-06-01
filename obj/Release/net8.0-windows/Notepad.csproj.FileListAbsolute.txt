@@ -1,0 +1,16 @@
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\bin\Release\net8.0-windows\Notepad.exe
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\bin\Release\net8.0-windows\Notepad.deps.json
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\bin\Release\net8.0-windows\Notepad.runtimeconfig.json
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\bin\Release\net8.0-windows\Notepad.dll
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\bin\Release\net8.0-windows\Notepad.pdb
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\Notepad.Form1.resources
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\Notepad.csproj.GenerateResource.cache
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\Notepad.AssemblyInfoInputs.cache
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\Notepad.AssemblyInfo.cs
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\Notepad.dll
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\refint\Notepad.dll
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\Notepad.pdb
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\Notepad.genruntimeconfig.cache
+C:\Users\8eida\OneDrive\ドキュメント\C# Windows Form\Notepad\Notepad\obj\Release\net8.0-windows\ref\Notepad.dll
